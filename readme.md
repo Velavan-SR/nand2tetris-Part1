@@ -15,3 +15,11 @@
 
 ## Or Gate
 ![Screenshot 2023-08-30 123403](https://github.com/Velavan-SR/nand2tetris-Part1/assets/139621147/694fd347-47fd-46c5-995f-f16d8f28f325)
+
+
+## Mux 
+![Screenshot 2023-09-02 101156](https://github.com/Velavan-SR/nand2tetris-Part1/assets/139621147/76599446-a52b-40de-b6bd-caeb93aad639)
+
+
+## DMux
+![Screenshot 2023-09-02 101351](https://github.com/Velavan-SR/nand2tetris-Part1/assets/139621147/f67a78c4-6080-48d5-8630-91767e8b507a)
