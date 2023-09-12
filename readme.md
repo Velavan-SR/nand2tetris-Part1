@@ -23,11 +23,3 @@
 
 ## DMux
 ![Screenshot 2023-09-02 101351](https://github.com/Velavan-SR/nand2tetris-Part1/assets/139621147/f67a78c4-6080-48d5-8630-91767e8b507a)
-
-
-## HalfAdder
-![Screenshot 2023-09-12 134435](https://github.com/Velavan-SR/nand2tetris-Part1/assets/139621147/e0888014-cee6-4d33-9fdc-b470ba24d969)
-
-
-## FullAdder
-![Screenshot 2023-09-12 134742](https://github.com/Velavan-SR/nand2tetris-Part1/assets/139621147/b719d7bc-c69e-4cc5-8bfb-303c6916585f)
