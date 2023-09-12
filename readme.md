@@ -31,3 +31,15 @@
 
 ## FullAdder
 ![Screenshot 2023-09-12 134742](https://github.com/Velavan-SR/nand2tetris-Part1/assets/139621147/92302186-fc25-402f-bd7a-94f9ac24cf1d)
+
+
+## Add16
+![Screenshot 2023-09-12 143002](https://github.com/Velavan-SR/nand2tetris-Part1/assets/139621147/3cef1086-6a03-4edb-b5e5-128da91f8ef9)
+
+
+## Inc16
+![Screenshot 2023-09-12 143217](https://github.com/Velavan-SR/nand2tetris-Part1/assets/139621147/2297ff06-1994-4437-ad47-66e15502ffae)
+
+
+## ALU
+![Screenshot 2023-09-12 143244](https://github.com/Velavan-SR/nand2tetris-Part1/assets/139621147/89a5f245-e958-49cb-9f71-0c04da332bbd)
