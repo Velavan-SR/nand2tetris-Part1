@@ -43,3 +43,19 @@
 
 ## ALU
 ![Screenshot 2023-09-12 143244](https://github.com/Velavan-SR/nand2tetris-Part1/assets/139621147/89a5f245-e958-49cb-9f71-0c04da332bbd)
+
+
+## Bit
+![Screenshot 2023-09-21 103409](https://github.com/Velavan-SR/nand2tetris-Part1/assets/139621147/d016dd50-e25b-417f-bc8c-f0a16b220c96)
+
+
+## Register 
+![Screenshot 2023-09-21 103559](https://github.com/Velavan-SR/nand2tetris-Part1/assets/139621147/0b9ca0e1-69fa-4bc9-ae23-df5c1d270326)
+
+
+## RAM 8
+![Screenshot 2023-09-21 103745](https://github.com/Velavan-SR/nand2tetris-Part1/assets/139621147/2b183ce3-5fa7-462f-883f-92c7333aa881)
+
+
+## RAM 64
+![Screenshot 2023-09-21 103916](https://github.com/Velavan-SR/nand2tetris-Part1/assets/139621147/968d28cb-b0de-4433-a6f4-a0451e72a62a)
