@@ -59,3 +59,19 @@
 
 ## RAM 64
 ![Screenshot 2023-09-21 103916](https://github.com/Velavan-SR/nand2tetris-Part1/assets/139621147/968d28cb-b0de-4433-a6f4-a0451e72a62a)
+
+
+## RAM 512
+![Screenshot 2023-09-21 113817](https://github.com/Velavan-SR/nand2tetris-Part1/assets/139621147/5b6357b9-75fb-462a-a4da-3ecb161b7793)
+
+
+## RAM 4K
+![Screenshot 2023-09-21 113901](https://github.com/Velavan-SR/nand2tetris-Part1/assets/139621147/a5a33643-d61a-49cc-a105-610c38ddbcca)
+
+
+## RAM 16K
+![Screenshot 2023-09-21 113947](https://github.com/Velavan-SR/nand2tetris-Part1/assets/139621147/4b262b85-9ca4-47c2-9fb4-133e1071c29e)
+
+
+## PC
+![Screenshot 2023-09-21 114014](https://github.com/Velavan-SR/nand2tetris-Part1/assets/139621147/db47fd99-55c9-4afd-9dae-1344a1780617)
